@@ -12,7 +12,7 @@
 
 2. **常用DOS命令**
 
-   ![](images\常用DOS命令.png)
+   ![](..\images\常用DOS命令.png)
 
 3. **第一个Java程序**
 
